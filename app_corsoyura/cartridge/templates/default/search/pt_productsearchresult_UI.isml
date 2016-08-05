@@ -1,0 +1,2 @@
+<link href="${URLUtils.staticURL('/css/verticalcarouselx4.css')}"
+type="text/css" rel="stylesheet"/>
