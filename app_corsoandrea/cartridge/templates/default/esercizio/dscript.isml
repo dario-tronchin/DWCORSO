@@ -1,0 +1,8 @@
+<!--- TEMPLATENAME: dscript.isml --->
+
+<isscript>
+importPackage(dw.system);
+importPackage(dw.customer);
+var numCust = CustomerMgr.etRegisteredCustomerCount();
+</isscript>
+${numCust}
